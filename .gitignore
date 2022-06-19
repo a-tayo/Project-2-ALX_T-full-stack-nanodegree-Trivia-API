@@ -11,5 +11,5 @@ venv
 .Trashes
 ehthumbs.db
 Thumbs.db
-env/
+project2-trivia-api-env/
 frontend/node_modules/
