@@ -13,3 +13,4 @@ ehthumbs.db
 Thumbs.db
 project2-trivia-api-env/
 frontend/node_modules/
+backend/.env

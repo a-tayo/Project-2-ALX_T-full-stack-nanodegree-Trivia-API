@@ -8,6 +8,10 @@
   flex-shrink: 2;
 }
 
+.categories-list li{
+  cursor: pointer;
+}
+
 .categories-list > form {
   width: 60%;
 }
@@ -60,6 +64,7 @@ span.page-num {
   font-weight: bolder;
   text-decoration: underline;
   font-size: 16px;
+  cursor: pointer;
 }
 
 span.page-num.active {
